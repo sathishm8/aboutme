@@ -1,0 +1,17 @@
+.wrap {
+width: 100%;
+}
+
+.floatleft {
+    float:left; 
+    width: 10%;
+    background-color: #d5dbdb;
+    height: 500px;
+}
+
+.floatright {
+float: right;
+    background-color: #d5dbdb;
+    height: 500px;
+    width: 90%;
+}
